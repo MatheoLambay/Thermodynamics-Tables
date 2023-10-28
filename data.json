@@ -1,0 +1,1089 @@
+{
+    "masse_molaire,constante_gaz_point_critique":[
+        {
+            "air": [
+                {
+                    "formule":["--"],
+                    "masse molaire M (kg/kmol)":["28.970"],
+                    "constante du gaz R (Kj/(kg*K))":["0.28700"],
+                    "temperature (K) (point critique)":["132.5"],
+                    "pression (Mpa) (point critique)":["3.770"],
+                    "volume (m3/kmol) (point critique)":["0.0883"]
+                }
+            ],
+            "ammoniac": [
+                {
+                    "formule":["NH3"],
+                    "masse molaire M (kg/kmol)":["17.030"],
+                    "constante du gaz R (Kj/(kg*K))":["0.48820"],
+                    "temperature (K) (point critique)":["405.5"],
+                    "pression (Mpa) (point critique)":["11.280"],
+                    "volume (m3/kmol) (point critique)":["0.0724"]
+                }
+            ],
+            "argon": [
+                {
+                    "formule":["Ar"],
+                    "masse molaire M (kg/kmol)":["39.948"],
+                    "constante du gaz R (Kj/(kg*K))":["0.20810"],
+                    "temperature (K) (point critique)":["151.0"],
+                    "pression (Mpa) (point critique)":["4.860"],
+                    "volume (m3/kmol) (point critique)":["0.0749"]
+                }
+            ],
+            "azote": [
+                {
+                    "formule":["N2"],
+                    "masse molaire M (kg/kmol)":["28,013"],
+                    "constante du gaz R (Kj/(kg*K))":["0,29680"],
+                    "temperature (K) (point critique)":["126,2"],
+                    "pression (Mpa) (point critique)":["3,390"],
+                    "volume (m3/kmol) (point critique)":["0,0899"]
+                }
+            ],
+            "benzene": [
+                {
+                    "formule":["C6H6"],
+                    "masse molaire M (kg/kmol)":["78,115"],
+                    "constante du gaz R (Kj/(kg*K))":["0,10640"],
+                    "temperature (K) (point critique)":["562,0"],
+                    "pression (Mpa) (point critique)":["4,920"],
+                    "volume (m3/kmol) (point critique)":["0,2603"]
+                }
+            ],
+            "bromine": [
+                {
+                    "formule":["Br2"],
+                    "masse molaire M (kg/kmol)":["159,808"],
+                    "constante du gaz R (Kj/(kg*K))":["0,05200"],
+                    "temperature (K) (point critique)":["584,0"],
+                    "pression (Mpa) (point critique)":["10,340"],
+                    "volume (m3/kmol) (point critique)":["0,1355"]
+                }
+            ],
+            "chlore": [
+                {
+                    "formule":["Cl2"],
+                    "masse molaire M (kg/kmol)":["70,906"],
+                    "constante du gaz R (Kj/(kg*K))":["0,11730"],
+                    "temperature (K) (point critique)":["417,0"],
+                    "pression (Mpa) (point critique)":["7,710"],
+                    "volume (m3/kmol) (point critique)":["0,1242"]
+                }
+            ],
+            "chloroforme": [
+                {
+                    "formule":["CHCl3"],
+                    "masse molaire M (kg/kmol)":["119,380"],
+                    "constante du gaz R (Kj/(kg*K))":["0,06964"],
+                    "temperature (K) (point critique)":["536,6"],
+                    "pression (Mpa) (point critique)":["5,470"],
+                    "volume (m3/kmol) (point critique)":["0,2403"]
+                }
+            ],
+            "chlorure_de_methyl": [
+                {
+                    "formule":["CH3Cl"],
+                    "masse molaire M (kg/kmol)":["50,488"],
+                    "constante du gaz R (Kj/(kg*K))":["0,16470"],
+                    "temperature (K) (point critique)":["416,3"],
+                    "pression (Mpa) (point critique)":["6,680"],
+                    "volume (m3/kmol) (point critique)":["0,1430"]
+                }
+            ],
+            "dichlorodifluoromethane": [
+                {
+                    "formule":["CCl2F2"],
+                    "masse molaire M (kg/kmol)":["120,910"],
+                    "constante du gaz R (Kj/(kg*K))":["0,06876"],
+                    "temperature (K) (point critique)":["384,7"],
+                    "pression (Mpa) (point critique)":["4,010"],
+                    "volume (m3/kmol) (point critique)":["0,2179"]
+                }
+            ],
+            "dichlorofluoromethane": [
+                {
+                    "formule":["CHCl2F"],
+                    "masse molaire M (kg/kmol)":["102,920"],
+                    "constante du gaz R (Kj/(kg*K))":["0,08078"],
+                    "temperature (K) (point critique)":["451,7"],
+                    "pression (Mpa) (point critique)":["5,170"],
+                    "volume (m3/kmol) (point critique)":["0,1973"]
+                }
+            ],
+            "dioxyde_de_carbone": [
+                {
+                    "formule":["CO2"],
+                    "masse molaire M (kg/kmol)":["44,010"],
+                    "constante du gaz R (Kj/(kg*K))":["0,18890"],
+                    "temperature (K) (point critique)":["304,2"],
+                    "pression (Mpa) (point critique)":["7,390"],
+                    "volume (m3/kmol) (point critique)":["0,0943"]
+                }
+            ],
+            "dioxyde_de_soufre": [
+                {
+                    "formule":["SO2"],
+                    "masse molaire M (kg/kmol)":["64,063"],
+                    "constante du gaz R (Kj/(kg*K))":["0,12980"],
+                    "temperature (K) (point critique)":["430,7"],
+                    "pression (Mpa) (point critique)":["7,880"],
+                    "volume (m3/kmol) (point critique)":["0,1217"]
+                }
+            ],
+            "eau": [
+                {
+                    "formule":["H2O"],
+                    "masse molaire M (kg/kmol)":["18,015"],
+                    "constante du gaz R (Kj/(kg*K))":["0,46150"],
+                    "temperature (K) (point critique)":["647,1"],
+                    "pression (Mpa) (point critique)":["22,060"],
+                    "volume (m3/kmol) (point critique)":["0,0560"]
+                }
+            ],
+            "ethane": [
+                {
+                    "formule":["C2H6"],
+                    "masse molaire M (kg/kmol)":["30,070"],
+                    "constante du gaz R (Kj/(kg*K))":["0,27650"],
+                    "temperature (K) (point critique)":["305,5"],
+                    "pression (Mpa) (point critique)":["4,480"],
+                    "volume (m3/kmol) (point critique)":["0,1480"]
+                }
+            ],
+            "ethanol": [
+                {
+                    "formule":["C2H5OH"],
+                    "masse molaire M (kg/kmol)":["46,070"],
+                    "constante du gaz R (Kj/(kg*K))":["0,18050"],
+                    "temperature (K) (point critique)":["516,0"],
+                    "pression (Mpa) (point critique)":["6,380"],
+                    "volume (m3/kmol) (point critique)":["0,1673"]
+                }
+            ],
+            "ethylene": [
+                {
+                    "formule":["C2H4"],
+                    "masse molaire M (kg/kmol)":["28,054"],
+                    "constante du gaz R (Kj/(kg*K))":["0,29640"],
+                    "temperature (K) (point critique)":["282,4"],
+                    "pression (Mpa) (point critique)":["5,120"],
+                    "volume (m3/kmol) (point critique)":["0,1242"]
+                }
+            ],
+            "helium": [
+                {
+                    "formule":["He"],
+                    "masse molaire M (kg/kmol)":["4,003"],
+                    "constante du gaz R (Kj/(kg*K))":["2,07690"],
+                    "temperature (K) (point critique)":["5,3"],
+                    "pression (Mpa) (point critique)":["0,230"],
+                    "volume (m3/kmol) (point critique)":["0,0578"]
+                }
+            ],
+            "hydrogene": [
+                {
+                    "formule":["H2"],
+                    "masse molaire M (kg/kmol)":["2,016"],
+                    "constante du gaz R (Kj/(kg*K))":["4,124"],
+                    "temperature (K) (point critique)":["33,3"],
+                    "pression (Mpa) (point critique)":["1,300"],
+                    "volume (m3/kmol) (point critique)":["0,0649"]
+                }
+            ],
+            "krypton": [
+                {
+                    "formule":["Kr"],
+                    "masse molaire M (kg/kmol)":["83,800"],
+                    "constante du gaz R (Kj/(kg*K))":["0,09921"],
+                    "temperature (K) (point critique)":["209,4"],
+                    "pression (Mpa) (point critique)":["5,500"],
+                    "volume (m3/kmol) (point critique)":["0,0924"]
+                }
+            ],
+            "methane": [
+                {
+                    "formule":["CH4"],
+                    "masse molaire M (kg/kmol)":["16,043"],
+                    "constante du gaz R (Kj/(kg*K))":["0,51820"],
+                    "temperature (K) (point critique)":["191,1"],
+                    "pression (Mpa) (point critique)":["4,640"],
+                    "volume (m3/kmol) (point critique)":["0,0993"]
+                }
+            ],
+            "methanol": [
+                {
+                    "formule":["CH3OH"],
+                    "masse molaire M (kg/kmol)":["32,042"],
+                    "constante du gaz R (Kj/(kg*K))":["0,25950"],
+                    "temperature (K) (point critique)":["513,2"],
+                    "pression (Mpa) (point critique)":["7,950"],
+                    "volume (m3/kmol) (point critique)":["0,1180"]
+                }
+            ],
+            "monoxyde_de_carbone": [
+                {
+                    "formule":["CO"],
+                    "masse molaire M (kg/kmol)":["28,011"],
+                    "constante du gaz R (Kj/(kg*K))":["0,29680"],
+                    "temperature (K) (point critique)":["133,0"],
+                    "pression (Mpa) (point critique)":["3,500"],
+                    "volume (m3/kmol) (point critique)":["0,0930"]
+                }
+            ],
+            "n-butane": [
+                {
+                    "formule":["C4H10"],
+                    "masse molaire M (kg/kmol)":["58,124"],
+                    "constante du gaz R (Kj/(kg*K))":["0,14300"],
+                    "temperature (K) (point critique)":["425,2"],
+                    "pression (Mpa) (point critique)":["3,800"],
+                    "volume (m3/kmol) (point critique)":["0,2547"]
+                }
+            ],
+            "n-hexane": [
+                {
+                    "formule":["C6H14"],
+                    "masse molaire M (kg/kmol)":["86,179"],
+                    "constante du gaz R (Kj/(kg*K))":["0,09647"],
+                    "temperature (K) (point critique)":["507,9"],
+                    "pression (Mpa) (point critique)":["3,030"],
+                    "volume (m3/kmol) (point critique)":["0,3677"]
+                }
+            ],
+            "neon": [
+                {
+                    "formule":["Ne"],
+                    "masse molaire M (kg/kmol)":["20,183"],
+                    "constante du gaz R (Kj/(kg*K))":["0,41190"],
+                    "temperature (K) (point critique)":["44,5"],
+                    "pression (Mpa) (point critique)":["2,730"],
+                    "volume (m3/kmol) (point critique)":["0,0417"]
+                }
+            ],
+            "oxyde_nitreux": [
+                {
+                    "formule":["N2O"],
+                    "masse molaire M (kg/kmol)":["44,013"],
+                    "constante du gaz R (Kj/(kg*K))":["0,18890"],
+                    "temperature (K) (point critique)":["309,7"],
+                    "pression (Mpa) (point critique)":["7,270"],
+                    "volume (m3/kmol) (point critique)":["0,0961"]
+                }
+            ],
+            "oxygene": [
+                {
+                    "formule":["O2"],
+                    "masse molaire M (kg/kmol)":["31,999"],
+                    "constante du gaz R (Kj/(kg*K))":["0,25980"],
+                    "temperature (K) (point critique)":["154,8"],
+                    "pression (Mpa) (point critique)":["5,080"],
+                    "volume (m3/kmol) (point critique)":["0,0780"]
+                }
+            ],
+            "propane": [
+                {
+                    "formule":["C3H8"],
+                    "masse molaire M (kg/kmol)":["44,097"],
+                    "constante du gaz R (Kj/(kg*K))":["0,18850"],
+                    "temperature (K) (point critique)":["370,0"],
+                    "pression (Mpa) (point critique)":["4,260"],
+                    "volume (m3/kmol) (point critique)":["0,1998"]
+                }
+            ],
+            "propylene": [
+                {
+                    "formule":["C3H6"],
+                    "masse molaire M (kg/kmol)":["42,081"],
+                    "constante du gaz R (Kj/(kg*K))":["0,19760"],
+                    "temperature (K) (point critique)":["365,0"],
+                    "pression (Mpa) (point critique)":["4,620"],
+                    "volume (m3/kmol) (point critique)":["0,1810"]
+                }
+            ],
+            "tetrachlorure_de_carbone": [
+                {
+                    "formule":["CCl4"],
+                    "masse molaire M (kg/kmol)":["153,820"],
+                    "constante du gaz R (Kj/(kg*K))":["0,05405"],
+                    "temperature (K) (point critique)":["556,4"],
+                    "pression (Mpa) (point critique)":["4,560"],
+                    "volume (m3/kmol) (point critique)":["0,2759"]
+                }
+            ],
+            "tetrachloroethane": [
+                {
+                    "formule":["CF3CH2F"],
+                    "masse molaire M (kg/kmol)":["102,030"],
+                    "constante du gaz R (Kj/(kg*K))":["0,08149"],
+                    "temperature (K) (point critique)":["374,2"],
+                    "pression (Mpa) (point critique)":["4,059"],
+                    "volume (m3/kmol) (point critique)":["0,1993"]
+                }
+            ],
+            "trichlorofluoromethane": [
+                {
+                    "formule":["CCl3F"],
+                    "masse molaire M (kg/kmol)":["137,370"],
+                    "constante du gaz R (Kj/(kg*K))":["0,06052"],
+                    "temperature (K) (point critique)":["471,2"],
+                    "pression (Mpa) (point critique)":["4,380"],
+                    "volume (m3/kmol) (point critique)":["0,2478"]
+                }
+            ],
+            "xenon": [
+                {
+                    "formule":["Xe"],
+                    "masse molaire M (kg/kmol)":["131,300"],
+                    "constante du gaz R (Kj/(kg*K))":["0,06332"],
+                    "temperature (K) (point critique)":["289,8"],
+                    "pression (Mpa) (point critique)":["5,880"],
+                    "volume (m3/kmol) (point critique)":["0,1186"]
+                }
+            ]
+  
+        }
+    ],
+    "chaleurs_massiques_gaz_parfait_(temperatures,1.2)":[
+        {
+            "air": [
+                {
+                    "temperature(K)":["250","300","350","400","450","500","550","600","650","700","750","800","900","1000"],   
+                    "Cp(Kj/(kg*K))":["1,003","1,005","1,008","1,013","1,020","1,029","1,040","1,051","1,063","1,075","1,087","1,099","1,121","1,142"],
+                    "Cv(Kj/(kg*K))":["0,716","0,718","0,721","0,726","0,733","0,742","0,753","0,764","0,776","0,788","0,800","0,812","0,834","0,855"],
+                    "k":["1,401","1,400","1,398","1,395","1,391","1,387","1,381","1,376","1,370","1,364","1,359","1,354","1,344","1,336"]
+                }
+            ],
+            "dioxyde_de_carbone": [
+                {
+                    "temperature(K)":["250","300","350","400","450","500","550","600","650","700","750","800","900","1000"],   
+                    "Cp(Kj/(kg*K))":["0,791","0,846","0,895","0,939","0,978","1,014","1,046","1,075","1,102","1,126","1,148","1,169","1,204","1,234"],
+                    "Cv(Kj/(kg*K))":["0,602","0,657","0,706","0,750","0,790","0,825","0,857","0,886","0,913","0,937","0,959","0,980","1,015","1,045"],
+                    "k":["1,314","1,288","1,268","1,252","1,239","1,229","1,220","1,213","1,207","1,202","1,197","1,193","1,186","1,181"]
+                }
+            ],
+            "monoxyde_de_carbone": [
+                {
+                    "temperature(K)":["250","300","350","400","450","500","550","600","650","700","750","800","900","1000"],   
+                    "Cp(Kj/(kg*K))":["1,039","1,040","1,043","1,047","1,054","1,063","1,075","1,087","1,100","1,113","1,126","1,139","1,163","1,185"],
+                    "Cv(Kj/(kg*K))":["0,743","0,744","0,746","0,751","0,757","0,767","0,778","0,790","0,803","0,816","0,829","0,842","0,866","0,888"],
+                    "k":["1,400","1,399","1,398","1,395","1,392","1,387","1,382","1,376","1,370","1,364","1,358","1,353","1,343","1,335"]
+                }
+            ],
+            "hydrogene": [
+                {
+                    "temperature(K)":["250","300","350","400","450","500","550","600","650","700","750","800","900","1000"],   
+                    "Cp(Kj/(kg*K))":["14,051","14,307","14,427","14,476","14,501","14,513","14,530","14,546","14,571","14,604","14,645","14,695","14,822","14,983"],
+                    "Cv(Kj/(kg*K))":["9,927","10,183","10,302","10,352","10,377","10,389","10,405","10,422","10,447","10,480","10,521","10,570","10,698","10,859"],
+                    "k":["1,416","1,405","1,400","1,398","1,398","1,397","1,396","1,396","1,395","1,394","1,392","1,390","1,385","1,380"]
+                }
+            ],
+            "azote": [
+                {
+                    "temperature(K)":["250","300","350","400","450","500","550","600","650","700","750","800","900","1000"],   
+                    "Cp(Kj/(kg*K))":["1,039","1,039","1,041","1,044","1,049","1,056","1,065","1,075","1,086","1,098","1,110","1,121","1,145","1,167"],
+                    "Cv(Kj/(kg*K))":["0,742","0,743","0,744","0,747","0,752","0,759","0,768","0,778","0,789","0,801","0,813","0,825","0,849","0,870"],
+                    "k":["1,400","1,400","1,399","1,397","1,395","1,391","1,387","1,382","1,376","1,371","1,365","1,360","1,349","1,341"]
+                }
+            ],
+            "oxygene": [
+                {
+                    "temperature(K)":["250","300","350","400","450","500","550","600","650","700","750","800","900","1000"],   
+                    "Cp(Kj/(kg*K))":["0,913","0,918","0,928","0,941","0,956","0,972","0,988","1,003","1,017","1,031","1,043","1,054","1,074","1,090"],
+                    "Cv(Kj/(kg*K))":["0,653","0,658","0,668","0,681","0,696","0,712","0,728","0,743","0,758","0,771","0,783","0,794","0,814","0,830"],
+                    "k":["1,398","1,395","1,389","1,382","1,373","1,365","1,358","1,350","1,343","1,337","1,332","1,327","1,319","1,313"]
+                }
+            ]
+        }
+    ],
+    "proprietes_de_substances_solides_et_liquides":[
+        {
+            "alcool_ethylique": [
+                {
+                    "point d'ebullition (°C)":["78,6"],   
+                    "chaleur latente d'evaporation":["855,0"],
+                    "point de solidification":["-156,0"],
+                    "chaleur lattente de fusion":["108,0"],
+                    "temperature":["20"],
+                    "masse volumique":["789,0"],
+                    "chaleur massique":["2,840"]
+                }
+            ],
+            "ammoniac": [
+                {
+                    "point d'ebullition (°C)":["-33,3"],   
+                    "chaleur latente d'evaporation":["1357,0"],
+                    "point de solidification":["-77,7"],
+                    "chaleur lattente de fusion":["-322,4"],
+                    "temperature":["-33,3","-20,0","0,0","25,0"],
+                    "masse volumique":["682,0","665,0","639,0","602,0"],
+                    "chaleur massique":["4,430","4,520","4,600","4,800"]
+                }
+            ],
+            "argon": [
+                {
+                    "point d'ebullition (°C)":["-185,9"],   
+                    "chaleur latente d'evaporation":["161,6"],
+                    "point de solidification":["-189,3"],
+                    "chaleur lattente de fusion":["28,0"],
+                    "temperature":["-185,6"],
+                    "masse volumique":["1394,0"],
+                    "chaleur massique":["1,140"]
+                }
+            ],
+            "azote": [
+                {
+                    "point d'ebullition (°C)":["-195,8"],   
+                    "chaleur latente d'evaporation":["198,6"],
+                    "point de solidification":["-210,0","5,5"],
+                    "chaleur lattente de fusion":["25,3"],
+                    "temperature":["-195,8","-160,0"],
+                    "masse volumique":["809,0","596,0"],
+                    "chaleur massique":["2,060","2,970"]
+                }
+            ],
+            "benzene": [
+                {
+                    "point d'ebullition (°C)":["80,2"],   
+                    "chaleur latente d'evaporation":["394,0"],
+                    "point de solidification":["-138,5"],
+                    "chaleur lattente de fusion":["126,0"],
+                    "temperature":["20,0"],
+                    "masse volumique":["879,0"],
+                    "chaleur massique":["1,720"]
+                }
+            ],
+            "dioxyde_de_carbone": [
+                {
+                    "point d'ebullition (°C)":["-78,4"],   
+                    "chaleur latente d'evaporation":["230,5(a 0 deg C)"],
+                    "point de solidification":["0,0"],
+                    "chaleur lattente de fusion":["None"],
+                    "temperature":["0,0"],
+                    "masse volumique":["298,0"],
+                    "chaleur massique":["0,590"]
+                }
+            ],
+            "eau": [
+                {
+                    "point d'ebullition (°C)":["100,0"],   
+                    "chaleur latente d'evaporation":["2257,0"],
+                    "point de solidification":["0,0"],
+                    "chaleur lattente de fusion":["333,7"],
+                    "temperature":["0,0","25,0","50,0","75,0","100,0"],
+                    "masse volumique":["1000,0","997,0","988,0","975,0","958,0"],
+                    "chaleur massique":["4,220","4,180","4,180","4,190","4,220"]
+                }
+            ],
+            "ethanol": [
+                {
+                    "point d'ebullition (°C)":["78,2"],   
+                    "chaleur latente d'evaporation":["838,3"],
+                    "point de solidification":["-114,2"],
+                    "chaleur lattente de fusion":["109,0"],
+                    "temperature":["25,0"],
+                    "masse volumique":["783,0"],
+                    "chaleur massique":["2,460"]
+                }
+            ],
+            "ethylene_glycol": [
+                {
+                    "point d'ebullition (°C)":["198,1"],   
+                    "chaleur latente d'evaporation":["800,1"],
+                    "point de solidification":["-10,8"],
+                    "chaleur lattente de fusion":["181,1"],
+                    "temperature":["20,0"],
+                    "masse volumique":["1109,0"],
+                    "chaleur massique":["2,840"]
+                }
+            ],
+            "glycerine": [
+                {
+                    "point d'ebullition (°C)":["179,9"],   
+                    "chaleur latente d'evaporation":["974,0"],
+                    "point de solidification":["18,9"],
+                    "chaleur lattente de fusion":["200,6"],
+                    "temperature":["20,0"],
+                    "masse volumique":["1261,0"],
+                    "chaleur massique":["2,230"]
+                }
+            ],
+            "helium": [
+                {
+                    "point d'ebullition (°C)":["-268,9"],   
+                    "chaleur latente d'evaporation":["22,8"],
+                    "point de solidification":["--"],
+                    "chaleur lattente de fusion":["--"],
+                    "temperature":["-268,9"],
+                    "masse volumique":["146,2"],
+                    "chaleur massique":["22,800"]
+                }
+            ],
+            "Huile": [
+                {
+                    "point d'ebullition (°C)":[""],   
+                    "chaleur latente d'evaporation":[""],
+                    "point de solidification":[""],
+                    "chaleur lattente de fusion":[""],
+                    "temperature":["25,0"],
+                    "masse volumique":["910,0"],
+                    "chaleur massique":["1,800"]
+                }
+            ],
+            "hydrogene": [
+                {
+                    "point d'ebullition (°C)":["-252,8"],   
+                    "chaleur latente d'evaporation":["445,7"],
+                    "point de solidification":["-259,2"],
+                    "chaleur lattente de fusion":["59,5"],
+                    "temperature":["-252,8"],
+                    "masse volumique":["70,7"],
+                    "chaleur massique":["10,000"]
+                }
+            ],
+            "isobutane": [
+                {
+                    "point d'ebullition (°C)":["-11,7"],   
+                    "chaleur latente d'evaporation":["367,1"],
+                    "point de solidification":["-160,0"],
+                    "chaleur lattente de fusion":["105,7"],
+                    "temperature":["-11,7"],
+                    "masse volumique":["593,8"],
+                    "chaleur massique":["2,280"]
+                }
+            ],
+            "kerosene": [
+                {
+                    "point d'ebullition (°C)":["204-293"],   
+                    "chaleur latente d'evaporation":["251,0"],
+                    "point de solidification":["-24,9"],
+                    "chaleur lattente de fusion":["--"],
+                    "temperature":["20,0"],
+                    "masse volumique":["820,0"],
+                    "chaleur massique":["2,000"]
+                }
+            ],
+            "mercure": [
+                {
+                    "point d'ebullition (°C)":["356,7"],   
+                    "chaleur latente d'evaporation":["294,7"],
+                    "point de solidification":["-38,9"],
+                    "chaleur lattente de fusion":["11,4"],
+                    "temperature":["25,0"],
+                    "masse volumique":["13560,0"],
+                    "chaleur massique":["0,139"]
+                }
+            ],
+            "methane": [
+                {
+                    "point d'ebullition (°C)":["-161,5"],   
+                    "chaleur latente d'evaporation":["510,4"],
+                    "point de solidification":["-182,2"],
+                    "chaleur lattente de fusion":["58,4"],
+                    "temperature":["-161,5","-100,0"],
+                    "masse volumique":["423,0","301,0"],
+                    "chaleur massique":["3,490","5,790"]
+                }
+            ],
+            "methanol": [
+                {
+                    "point d'ebullition (°C)":["64,5"],   
+                    "chaleur latente d'evaporation":["1100,0"],
+                    "point de solidification":["-97,7"],
+                    "chaleur lattente de fusion":["99,2"],
+                    "temperature":["25,0"],
+                    "masse volumique":["787,0"],
+                    "chaleur massique":["2,550"]
+                }
+            ],
+            "n-butane": [
+                {
+                    "point d'ebullition (°C)":["-0,5"],   
+                    "chaleur latente d'evaporation":["385,2"],
+                    "point de solidification":["-56,6"],
+                    "chaleur lattente de fusion":["80,3"],
+                    "temperature":["-0,5"],
+                    "masse volumique":["601,0"],
+                    "chaleur massique":["2,310"]
+                }
+            ],
+            "octane": [
+                {
+                    "point d'ebullition (°C)":["124,8"],   
+                    "chaleur latente d'evaporation":["306,8"],
+                    "point de solidification":["-57,5"],
+                    "chaleur lattente de fusion":["180,7"],
+                    "temperature":["20,0"],
+                    "masse volumique":["703,0"],
+                    "chaleur massique":["2,100"]
+                }
+            ],
+            "oxygene": [
+                {
+                    "point d'ebullition (°C)":["-183,0"],   
+                    "chaleur latente d'evaporation":["212,7"],
+                    "point de solidification":["-218,8"],
+                    "chaleur lattente de fusion":["13,7"],
+                    "temperature":["-183,0"],
+                    "masse volumique":["1141,0"],
+                    "chaleur massique":["1,710"]
+                }
+            ],
+            "petrole": [
+                {
+                    "point d'ebullition (°C)":["--"],   
+                    "chaleur latente d'evaporation":["230-384"],
+                    "point de solidification":[""],
+                    "chaleur lattente de fusion":[""],
+                    "temperature":["20,0"],
+                    "masse volumique":["640,0"],
+                    "chaleur massique":["2,000"]
+                }
+            ],
+            "propane": [
+                {
+                    "point d'ebullition (°C)":["-42,1"],   
+                    "chaleur latente d'evaporation":["427,8"],
+                    "point de solidification":["-187,7"],
+                    "chaleur lattente de fusion":["80,0"],
+                    "temperature":["-42,1","0,0"],
+                    "masse volumique":["581,0","529,0"],
+                    "chaleur massique":["2,250","2,530"]
+                }
+            ],
+            "refrigirant R-134a": [
+                {
+                    "point d'ebullition (°C)":["-26,1"],   
+                    "chaleur latente d'evaporation":["217,0"],
+                    "point de solidification":["-96,6"],
+                    "chaleur lattente de fusion":["--"],
+                    "temperature":["50,0","-50,0","-26,1","0,0","25,0"],
+                    "masse volumique":["449,0","1443,0","1374,0","1295,0","1207,0"],
+                    "chaleur massique":["3,130","1,230","1,270","1,340","1,430"]
+                }
+            ],
+            "saumure": [
+                {
+                    "point d'ebullition (°C)":["103,9"],   
+                    "chaleur latente d'evaporation":["--"],
+                    "point de solidification":["-17,4"],
+                    "chaleur lattente de fusion":["--"],
+                    "temperature":["20,0"],
+                    "masse volumique":["1150,0"],
+                    "chaleur massique":["3,110"]
+                }
+            ],
+            "acier_doux": [
+                {
+                    "masse volumique":["7830"],
+                    "chaleur massique":["0,500"]
+                }
+            ],
+            "aluminium": [
+                {
+                    " ":["200 K","250 K","300 K","350 K","400 K","450 K","500 K"],
+                    "masse volumique":["2700","2700","2700","2700","2700","2700","2700"],
+                    "chaleur massique":["0,797","0,859","0,902","0,929","0,949","0,973","0,997"]
+                }
+            ],
+            "argent": [
+                {
+                    "masse volumique":["10470"],
+                    "chaleur massique":["0,235"]
+                }
+            ],
+            "bronze": [
+                {
+                    "masse volumique":["8280"],
+                    "chaleur massique":["0,400"]
+                }
+            ],
+            "cuivre": [
+                {
+                    " ":["-173°C","-100°C","-50°C","0°C","27°C","100°C","200°C"],
+                    "masse volumique":["8900","8900","8900","8900","8900","8900","8900"],
+                    "chaleur massique":["0,254","0,342","0,367","0,381","0,386","0,393","0,403"]
+                }
+            ],
+            "fer": [
+                {
+                    "masse volumique":["7840"],
+                    "chaleur massique":["0,450"]
+                }
+            ],
+            "laiton_jaune": [
+                {
+                    "masse volumique":["8310"],
+                    "chaleur massique":["0,400"]
+                }
+            ],
+            "magnesium": [
+                {
+                    "masse volumique":["1730"],
+                    "chaleur massique":["1,000"]
+                }
+            ],
+            "nickel": [
+                {
+                    "masse volumique":["8890"],
+                    "chaleur massique":["0,440"]
+                }
+            ],
+            "plomb": [
+                {
+                    "masse volumique":["11310"],
+                    "chaleur massique":["0,128"]
+                }
+            ],
+            "tungstene": [
+                {
+                    "masse volumique":["19400"],
+                    "chaleur massique":["0,130"]
+                }
+            ],
+            "argile": [
+                {
+                    "masse volumique":["1000"],
+                    "chaleur massique":["0,920"]
+                }
+            ],
+            "asphalte": [
+                {
+                    "masse volumique":["2110"],
+                    "chaleur massique":["0920"]
+                }
+            ],
+            "beton": [
+                {
+                    "masse volumique":["2300"],
+                    "chaleur massique":["0,653"]
+                }
+            ],
+            "bois_dur": [
+                {
+                    "masse volumique":["721"],
+                    "chaleur massique":["1,260"]
+                }
+            ],
+            "bois_tendre": [
+                {
+                    "masse volumique":["513"],
+                    "chaleur massique":["1,380"]
+                }
+            ],
+            "brique_de_construction": [
+                {
+                    "masse volumique":["1922"],
+                    "chaleur massique":["0,790"]
+                }
+            ],
+            "brique_refractaire(500°C)": [
+                {
+                    "masse volumique":["2300"],
+                    "chaleur massique":["0,960"]
+                }
+            ],
+            "calcaire": [
+                {
+                    "masse volumique":["1650"],
+                    "chaleur massique":["0,909"]
+                }
+            ],
+            "caoutchouc_dur": [
+                {
+                    "masse volumique":["1150"],
+                    "chaleur massique":["2,009"]
+                }
+            ],
+            "caoutchouc_tendre": [
+                {
+                    "masse volumique":["1100"],
+                    "chaleur massique":["1,840"]
+                }
+            ],
+            "contreplaqué": [
+                {
+                    "masse volumique":["545"],
+                    "chaleur massique":["1,210"]
+                }
+            ],
+            "diamant": [
+                {
+                    "masse volumique":["2420"],
+                    "chaleur massique":["0,616"]
+                }
+            ],
+            "glace": [
+                {
+                    " ":["200 K","220 K","240 K","260 K","273 K"],
+                    "masse volumique":["921","921","921","921","921"],
+                    "chaleur massique":["1,560","1,710","1,860","2,010","2,110"]
+                }
+            ],
+            "granit": [
+                {
+                    "masse volumique":["2700"],
+                    "chaleur massique":["1,017"]
+                }
+            ],
+            "graphite": [
+                {
+                    "masse volumique":["2500"],
+                    "chaleur massique":["0,711"]
+                }
+            ],
+            "gypse": [
+                {
+                    "masse volumique":["800"],
+                    "chaleur massique":["1,090"]
+                }
+            ],
+            "marbre": [
+                {
+                    "masse volumique":["2600"],
+                    "chaleur massique":["0,880"]
+                }
+            ],
+            "pierre": [
+                {
+                    "masse volumique":["1500"],
+                    "chaleur massique":["0,800"]
+                }
+            ],
+            "sable": [
+                {
+                    "masse volumique":["1520"],
+                    "chaleur massique":["0,800"]
+                }
+            ],
+            "verre_de_fenetre": [
+                {
+                    "masse volumique":["2700"],
+                    "chaleur massique":["0,800"]
+                }
+            ],
+            "verre-pyrex": [
+                {
+                    "masse volumique":["2230"],
+                    "chaleur massique":["0,840"]
+                }
+            ],
+            "banane": [
+                {
+                    "teneur en eau % (massique)":["75"],
+                    "point de congelation":["-0,8"],
+                    "chaleur massique (au-dessus point congelation)":["3,35"],
+                    "chaleur massique (au-dessous point congelation)":["1,78"],
+                    "chaleur latente de fusion":["251"]
+                }
+            ],
+            "beurre": [
+                {
+                    "teneur en eau % (massique)":["16"],
+                    "point de congelation":["--"],
+                    "chaleur massique (au-dessus point congelation)":["--"],
+                    "chaleur massique (au-dessous point congelation)":["1,04"],
+                    "chaleur latente de fusion":["53"]
+                }
+            ],
+            "boeuf": [
+                {
+                    "teneur en eau % (massique)":["67"],
+                    "point de congelation":["--"],
+                    "chaleur massique (au-dessus point congelation)":["3,08"],
+                    "chaleur massique (au-dessous point congelation)":["1,68"],
+                    "chaleur latente de fusion":["224"]
+                }
+            ],
+            "brocoli": [
+                {
+                    "teneur en eau % (massique)":["90"],
+                    "point de congelation":["-0,6"],
+                    "chaleur massique (au-dessus point congelation)":["3,86"],
+                    "chaleur massique (au-dessous point congelation)":["1,97"],
+                    "chaleur latente de fusion":["301"]
+                }
+            ],
+            "cerise": [
+                {
+                    "teneur en eau % (massique)":["80"],
+                    "point de congelation":["-1,8"],
+                    "chaleur massique (au-dessus point congelation)":["3,52"],
+                    "chaleur massique (au-dessous point congelation)":["1,85"],
+                    "chaleur latente de fusion":["267"]
+                }
+            ],
+            "creme-glacee": [
+                {
+                    "teneur en eau % (massique)":["63"],
+                    "point de congelation":["-5,6"],
+                    "chaleur massique (au-dessus point congelation)":["2,95"],
+                    "chaleur massique (au-dessous point congelation)":["1,63"],
+                    "chaleur latente de fusion":["210"]
+                }
+            ],
+            "crevette": [
+                {
+                    "teneur en eau % (massique)":["83"],
+                    "point de congelation":["-2,2"],
+                    "chaleur massique (au-dessus point congelation)":["3,62"],
+                    "chaleur massique (au-dessous point congelation)":["1,89"],
+                    "chaleur latente de fusion":["277"]
+                }
+            ],
+            "dinde": [
+                {
+                    "teneur en eau (massique)":["64"],
+                    "point de congelation":["--"],
+                    "chaleur massique (au-dessus point congelation)":["2,98"],
+                    "chaleur massique (au-dessous point congelation)":["1,65"],
+                    "chaleur latente de fusion":["214"]
+                }
+            ],
+            "epinard": [
+                {
+                    "teneur en eau (massique)":["93"],
+                    "point de congelation":["-0,3"],
+                    "chaleur massique (au-dessus point congelation)":["3,96"],
+                    "chaleur massique (au-dessous point congelation)":["2,01"],
+                    "chaleur latente de fusion":["311"]
+                }
+            ],
+            "fraise": [
+                {
+                    "teneur en eau (massique)":["90"],
+                    "point de congelation":["-0,8"],
+                    "chaleur massique (au-dessus point congelation)":["3,86"],
+                    "chaleur massique (au-dessous point congelation)":["1,97"],
+                    "chaleur latente de fusion":["301"]
+                }
+            ],
+            "fromage": [
+                {
+                    "teneur en eau (massique)":["39"],
+                    "point de congelation":["-10,0"],
+                    "chaleur massique (au-dessus point congelation)":["2,15"],
+                    "chaleur massique (au-dessous point congelation)":["1,33"],
+                    "chaleur latente de fusion":["130"]
+                }
+            ],
+            "lait": [
+                {
+                    "teneur en eau (massique)":["88"],
+                    "point de congelation":["-0,6"],
+                    "chaleur massique (au-dessus point congelation)":["3,79"],
+                    "chaleur massique (au-dessous point congelation)":["1,95"],
+                    "chaleur latente de fusion":["294"]
+                }
+            ],
+            "laitue": [
+                {
+                    "teneur en eau (massique)":["95"],
+                    "point de congelation":["-0,2"],
+                    "chaleur massique (au-dessus point congelation)":["4,02"],
+                    "chaleur massique (au-dessous point congelation)":["2,04"],
+                    "chaleur latente de fusion":["317"]
+                }
+            ],
+            "mais": [
+                {
+                    "teneur en eau (massique)":["74"],
+                    "point de congelation":["-0,6"],
+                    "chaleur massique (au-dessus point congelation)":["3,32"],
+                    "chaleur massique (au-dessous point congelation)":["1,77"],
+                    "chaleur latente de fusion":["247"]
+                }
+            ],
+            "melon": [
+                {
+                    "teneur en eau (massique)":["93"],
+                    "point de congelation":["-0,4"],
+                    "chaleur massique (au-dessus point congelation)":["3,96"],
+                    "chaleur massique (au-dessous point congelation)":["2,01"],
+                    "chaleur latente de fusion":["311"]
+                }
+            ],
+            "oeuf": [
+                {
+                    "teneur en eau (massique)":["74"],
+                    "point de congelation":["-0,6"],
+                    "chaleur massique (au-dessus point congelation)":["3,32"],
+                    "chaleur massique (au-dessous point congelation)":["1,77"],
+                    "chaleur latente de fusion":["247"]
+                }
+            ],
+            "orange": [
+                {
+                    "teneur en eau (massique)":["87"],
+                    "point de congelation":["-0,8"],
+                    "chaleur massique (au-dessus point congelation)":["3,75"],
+                    "chaleur massique (au-dessous point congelation)":["1,94"],
+                    "chaleur latente de fusion":["291"]
+                }
+            ],
+            "patate": [
+                {
+                    "teneur en eau (massique)":["78"],
+                    "point de congelation":["-0,6"],
+                    "chaleur massique (au-dessus point congelation)":["3,45"],
+                    "chaleur massique (au-dessous point congelation)":["1,82"],
+                    "chaleur latente de fusion":["261"]
+                }
+            ],
+            "pomme": [
+                {
+                    "teneur en eau (massique)":["84"],
+                    "point de congelation":["-1,1"],
+                    "chaleur massique (au-dessus point congelation)":["3,65"],
+                    "chaleur massique (au-dessous point congelation)":["1,90"],
+                    "chaleur latente de fusion":["281"]
+                }
+            ],
+            "poulet": [
+                {
+                    "teneur en eau (massique)":["74"],
+                    "point de congelation":["-2,8"],
+                    "chaleur massique (au-dessus point congelation)":["3,32"],
+                    "chaleur massique (au-dessous point congelation)":["1,77"],
+                    "chaleur latente de fusion":["247"]
+                }
+            ],
+            "saumon": [
+                {
+                    "teneur en eau (massique)":["64"],
+                    "point de congelation":["-2,2"],
+                    "chaleur massique (au-dessus point congelation)":["2,98"],
+                    "chaleur massique (au-dessous point congelation)":["1,65"],
+                    "chaleur latente de fusion":["214"]
+                }
+            ],
+            "tomate": [
+                {
+                    "teneur en eau (massique)":["94"],
+                    "point de congelation":["-0,5"],
+                    "chaleur massique (au-dessus point congelation)":["3,99"],
+                    "chaleur massique (au-dessous point congelation)":["2,02"],
+                    "chaleur latente de fusion":["314"]
+                }
+            ]
+
+        }
+    ],
+    "variables_thermodynamique_eau_sous_refroidie":[
+        {
+            "P=5MPa(263,94°C)": [
+                {
+                    "T(°C)":["sat","0","20","40","60","80","100","120","140","160","180","200","220","240","260","280","300","320","340"],
+                    "v(m3/kg°":["0,0012862","0,0009977","0,0009996","0,0010057","0,0010149","0,0010267","0,0010410","0,0010576","0,0010769","0,0010988","0,0011240","0,0011531","0,0011868","0,0012268","0,0012755"],
+                    "u(kj/kg)":["1148,10","0,04","83,61","166,92","250,29","333,82","417,65","501,91","586,80","672,55","759,47","847,92","938,39","1031,60","1128,50"],
+                    "h(kj/kg)":["1154,50","5,03","88,61","171,95","255,36","338,96","422,85","507,19","592,18","678,04","765,09","853,68","944,32","1037,70","1134,90"],
+                    "s(kj/(kg*K)":["2,9207","0,0001","0,2954","0,5705","0,8287","1,0723","1,3034","1,5236","1,7344","1,9374","2,1338","2,3251","2,5127","2,6983","2,8841"]
+                }
+            ]
+        }
+    ]
+            
+    
+
+
+}
